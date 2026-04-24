@@ -30,13 +30,13 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishna777-alt&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna777-alt&theme=radical" />
-</p>
+</p> -->
 
 ---
 
